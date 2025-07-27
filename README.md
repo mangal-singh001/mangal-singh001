@@ -1,3 +1,7 @@
+<img src="banner.png" alt="Mangal Singh GitHub Banner" style="width:100%;" />
+
+
+
 <!-- Optional Banner Image -->
 <!-- <img src="banner.png" alt="Mangal Singh Banner" style="width:100%;"> -->
 
