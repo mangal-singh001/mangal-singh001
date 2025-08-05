@@ -44,10 +44,30 @@
 
 ### 📂 Featured Data Projects
 
+
+
+Here are some of my top projects across Python, SQL, Power BI, and Machine Learning:
+
+- 🔹 [Ecommerce Data Analysis – Capstone Project](https://github.com/mangal-singh001/Ecommerce-Data-Analysis-Project)  
+  Inserted 50K+ rows into MySQL using Python, solved business problems with SQL, and visualized results using Pandas and Matplotlib.  
+  🛠️ Tools: Python, SQL, MySQL, Pandas, Jupyter
+
 - 🔹 [Sales Dashboard – Power BI](https://github.com/mangal-singh001/Sales-Dashboard-Power-BI)  
-- 🔹 [Spotify SQL Analysis](https://github.com/mangal-singh001/SQL-Projects)  
-- 🔹 [Python Mini Projects](https://github.com/mangal-singh001/Python-Projects)  
-- 🔹 [YouTube Data Analysis](#) *(Coming Soon)*
+  Analyzed sales performance across years, regions, and products using interactive Power BI visuals.  
+  🛠️ Tools: Power BI, DAX, Data Modeling
+
+- 🔹 [Customer Churn Prediction (ML)](https://github.com/mangal-singh001/Customer-Churn-analysis)  
+  Built a logistic regression model to predict churn based on customer features.  
+  🛠️ Tools: Python, Pandas, Scikit-learn, Matplotlib
+
+- 🔹 [Library Management System – SQL Project](https://github.com/mangal-singh001/Library-Management-Project-SQL)  
+  Designed and queried a normalized SQL database to manage library operations.  
+  🛠️ Tools: MySQL, SQL Queries
+
+- 🔹 [Python Projects Collection](https://github.com/mangal-singh001/Python_Projects)  
+  A variety of beginner-to-intermediate logic-based Python scripts.  
+  🛠️ Tools: Python, File Handling, Functions, Loops
+
 
 ---
 
