@@ -48,6 +48,12 @@
 
 Here are some of my top projects across Python, SQL, Power BI, and Machine Learning:
 
+
+- 🔹 [Vendor Performance Analysis – Capstone Project](https://github.com/mangal-singh001/Vendor-Performance-Analysis-Capstone-Project)  
+  Analyzed vendor purchase performance using **Python, SQL, and Power BI**.  
+  Automated data ingestion into SQL database, performed EDA with Pandas/Matplotlib, and built an interactive Power BI dashboard to track KPIs like vendor rating, delivery delays, and cost efficiency.  
+  🛠️ Tools: Python, SQL, Power BI, Pandas, Matplotlib
+  
 - 🔹 [Ecommerce Data Analysis – Capstone Project](https://github.com/mangal-singh001/Ecommerce-Data-Analysis-Project)  
   Inserted 50K+ rows into MySQL using Python, solved business problems with SQL, and visualized results using Pandas and Matplotlib.  
   🛠️ Tools: Python, SQL, MySQL, Pandas, Jupyter
