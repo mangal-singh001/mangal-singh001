@@ -69,9 +69,6 @@ Here are some of my top projects across Python, SQL, Power BI, and Machine Learn
   Designed and queried a normalized SQL database to manage library operations.  
   🛠️ Tools: MySQL, SQL Queries
 
-- 🔹 [Python Projects Collection](https://github.com/mangal-singh001/Python_Projects)  
-  A variety of beginner-to-intermediate logic-based Python scripts.  
-  🛠️ Tools: Python, File Handling, Functions, Loops
 
 
 ---
