@@ -3,23 +3,22 @@
 
 <h1 align="center">Hi 👋, I'm Mangal Singh</h1>
 <p align="center">
-  🎯 Aspiring Data Scientist | 📊 Turning Data into Insight | 💻 50-Day GitHub Streak  
+  🎯 Data Science Enthusiast | 📊 Turning Data into Insight | 💻 Consistently Building in Public  
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me  
 
-- 👨‍🎓 Final Year B.Tech CSE Student | Career Goal: **Data Scientist**
-- 🧠 Passionate about data-driven problem solving and real-world applications  
-- 🔄 Consistently active on GitHub and LinkedIn — building **in public**  
-- 🛠️ Skilled in: **Python**, **SQL**, **Power BI**, **Excel**, **Pandas**, **Matplotlib**
-- 🌱 Currently exploring: **Machine Learning**, **EDA**, and **Dashboards**
-- 📈 Posting daily projects, visuals, and growth journey
+- 👨‍🎓 Final Year B.Tech CSE Student | Focused on **Data Science & Analytics**  
+- 🧠 Skilled in turning raw data into business insights through **Python, SQL & Power BI**  
+- 🔄 Actively building and sharing projects on **GitHub & LinkedIn**  
+- 🌱 Currently exploring **Machine Learning, EDA, and Dashboarding**  
+- 📈 Passionate about applying data to solve **real-world problems**  
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies  
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql&logoColor=white)
@@ -27,10 +26,12 @@
 ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn&logoColor=orange)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter&logoColor=orange)
 
 ---
 
-### 🔥 GitHub Stats (Auto-Updating Daily)
+### 🔥 GitHub Stats (Auto-Updating Daily)  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangal-singh001&theme=tokyonight" alt="GitHub Streak" />
@@ -38,18 +39,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mangal-singh001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangal-singh001&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mangal-singh001&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
 
-### 📂 Featured Data Projects
-
-
----
-
+### 📂 Featured Data Projects  
 
 - 🔹 [Vendor Performance Analysis – Capstone Project](https://github.com/mangal-singh001/Vendor-Performance-Analysis-Capstone-Project)    
-  Automated data ingestion into SQL database, performed EDA with Pandas/Matplotlib, and built an interactive Power BI dashboard to track KPIs like vendor rating, delivery delays, and cost efficiency.  
+  Automated data ingestion into SQL, performed EDA with Pandas/Matplotlib, and built an interactive Power BI dashboard to track KPIs like vendor rating, delivery delays, and cost efficiency.  
   🛠️ Tools: Python, SQL, Power BI, Pandas, Matplotlib  
 
 - 🔹 [India General Election 2024 Result Analysis](https://github.com/mangal-singh001/India-General-Election-2024-Result-Analysis)  
@@ -60,22 +59,21 @@
   Inserted 50K+ rows into MySQL using Python, solved business problems with SQL, and visualized results using Pandas and Matplotlib.  
   🛠️ Tools: Python, SQL, MySQL, Pandas, Jupyter  
 
-- 🔹 [OLA Data Analyst Project](https://github.com/mangal-singh001/OLA-Data-Analyst-Project-)  
-  Conducted analysis on ride data to uncover trends in customer behavior, peak demand, revenue growth, and driver performance, delivering actionable insights for business strategy.  
-  🛠️ Tools: Python, Pandas, Matplotlib, Power BI  
-
 - 🔹 [Customer Churn Prediction (ML)](https://github.com/mangal-singh001/Customer-Churn-analysis)  
   Built a logistic regression model to predict churn based on customer features.  
   🛠️ Tools: Python, Pandas, Scikit-learn, Matplotlib  
 
+- 🔹 [OLA Data Analyst Project](https://github.com/mangal-singh001/OLA-Data-Analyst-Project-)  
+  Conducted analysis on ride data to uncover trends in customer behavior, peak demand, revenue growth, and driver performance, delivering actionable insights for business strategy.  
+  🛠️ Tools: Python, Pandas, Matplotlib, Power BI  
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mangal-singh123/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/mangal-singh001)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mangal-singh123/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/mangal-singh001)  
 
 ---
 
-<p align="center"><i>“The only competition is who I was yesterday.”</i></p>
+<p align="center"><i>“Data will talk to you, if you’re willing to listen.”</i></p>
