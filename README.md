@@ -46,29 +46,27 @@
 
 
 
-Here are some of my top projects across Python, SQL, Power BI, and Machine Learning:
+---
 
-
-- 🔹 [Vendor Performance Analysis – Capstone Project](https://github.com/mangal-singh001/Vendor-Performance-Analysis-Capstone-Project)    
-  Automated data ingestion into SQL database, performed EDA with Pandas/Matplotlib, and built an interactive Power BI dashboard to track KPIs like vendor rating, delivery delays, and cost efficiency.  
+* 🔹 [Vendor Performance Analysis – Capstone Project](https://github.com/mangal-singh001/Vendor-Performance-Analysis-Capstone-Project)
+  Automated data ingestion into SQL database, performed EDA with Pandas/Matplotlib, and built an interactive Power BI dashboard to track KPIs like vendor rating, delivery delays, and cost efficiency.
   🛠️ Tools: Python, SQL, Power BI, Pandas, Matplotlib
-  
-- 🔹 [Ecommerce Data Analysis – Capstone Project](https://github.com/mangal-singh001/Ecommerce-Data-Analysis-Project)  
-  Inserted 50K+ rows into MySQL using Python, solved business problems with SQL, and visualized results using Pandas and Matplotlib.  
+
+* 🔹 [India General Election 2024 Result Analysis](https://github.com/mangal-singh001/India-General-Election-2024-Result-Analysis)
+  Analyzed 2024 Indian election results with Pandas, SQL, and Power BI to uncover trends in constituencies, party performance, and voter demographics.
+  🛠️ Tools: Python, SQL, Power BI, Pandas
+
+* 🔹 [Ecommerce Data Analysis – Capstone Project](https://github.com/mangal-singh001/Ecommerce-Data-Analysis-Project)
+  Inserted 50K+ rows into MySQL using Python, solved business problems with SQL, and visualized results using Pandas and Matplotlib.
   🛠️ Tools: Python, SQL, MySQL, Pandas, Jupyter
 
-- 🔹 [Sales Dashboard – Power BI](https://github.com/mangal-singh001/Sales-Dashboard-Power-BI)  
-  Analyzed sales performance across years, regions, and products using interactive Power BI visuals.  
-  🛠️ Tools: Power BI, DAX, Data Modeling
-
-- 🔹 [Customer Churn Prediction (ML)](https://github.com/mangal-singh001/Customer-Churn-analysis)  
-  Built a logistic regression model to predict churn based on customer features.  
+* 🔹 [Customer Churn Prediction (ML)](https://github.com/mangal-singh001/Customer-Churn-analysis)
+  Built a logistic regression model to predict churn based on customer features.
   🛠️ Tools: Python, Pandas, Scikit-learn, Matplotlib
 
-- 🔹 [Library Management System – SQL Project](https://github.com/mangal-singh001/Library-Management-Project-SQL)  
-  Designed and queried a normalized SQL database to manage library operations.  
+* 🔹 [Library Management System – SQL Project](https://github.com/mangal-singh001/Library-Management-Project-SQL)
+  Designed and queried a normalized SQL database to manage library operations.
   🛠️ Tools: MySQL, SQL Queries
-
 
 
 ---
