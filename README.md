@@ -60,14 +60,13 @@
   Inserted 50K+ rows into MySQL using Python, solved business problems with SQL, and visualized results using Pandas and Matplotlib.  
   🛠️ Tools: Python, SQL, MySQL, Pandas, Jupyter  
 
+- 🔹 [OLA Data Analyst Project](https://github.com/mangal-singh001/OLA-Data-Analyst-Project-)  
+  Conducted analysis on ride data to uncover trends in customer behavior, peak demand, revenue growth, and driver performance, delivering actionable insights for business strategy.  
+  🛠️ Tools: Python, Pandas, Matplotlib, Power BI  
+
 - 🔹 [Customer Churn Prediction (ML)](https://github.com/mangal-singh001/Customer-Churn-analysis)  
   Built a logistic regression model to predict churn based on customer features.  
   🛠️ Tools: Python, Pandas, Scikit-learn, Matplotlib  
-
-- 🔹 [Library Management System – SQL Project](https://github.com/mangal-singh001/Library-Management-Project-SQL)  
-  Designed and queried a normalized SQL database to manage library operations.  
-  🛠️ Tools: MySQL, SQL Queries  
-
 
 
 ---
