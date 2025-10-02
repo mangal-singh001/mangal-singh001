@@ -47,25 +47,36 @@
 
 ### 📂 Featured Data Projects  
 
-- 🔹 [Vendor Performance Analysis – Capstone Project](https://github.com/mangal-singh001/Vendor-Performance-Analysis-Capstone-Project)    
-  Automated data ingestion into SQL, performed EDA with Pandas/Matplotlib, and built an interactive Power BI dashboard to track KPIs like vendor rating, delivery delays, and cost efficiency.  
-  🛠️ Tools: Python, SQL, Power BI, Pandas, Matplotlib  
+Perfect 👍 Here’s your updated **📂 Featured Data Projects** section with all **6 projects**, polished and consistent in style. You can copy-paste this directly into your GitHub profile README:
 
-- 🔹 [India General Election 2024 Result Analysis](https://github.com/mangal-singh001/India-General-Election-2024-Result-Analysis)  
-  Analyzed 2024 Indian election results with Pandas, SQL, and Power BI to uncover trends in constituencies, party performance, and voter demographics.  
-  🛠️ Tools: Python, SQL, Power BI, Pandas  
+---
 
-- 🔹 [Ecommerce Data Analysis – Capstone Project](https://github.com/mangal-singh001/Ecommerce-Data-Analysis-Project)  
-  Inserted 50K+ rows into MySQL using Python, solved business problems with SQL, and visualized results using Pandas and Matplotlib.  
-  🛠️ Tools: Python, SQL, MySQL, Pandas, Jupyter  
+### 📂 Featured Data Projects
 
-- 🔹 [Customer Churn Prediction (ML)](https://github.com/mangal-singh001/Customer-Churn-analysis)  
-  Built a logistic regression model to predict churn based on customer features.  
-  🛠️ Tools: Python, Pandas, Scikit-learn, Matplotlib  
+* 🔹 [Vendor Performance Analysis – Capstone Project](https://github.com/mangal-singh001/Vendor-Performance-Analysis-Capstone-Project)
+  Automated data ingestion into SQL, performed EDA with Pandas/Matplotlib, and built an interactive Power BI dashboard to track KPIs like vendor rating, delivery delays, and cost efficiency.
+  🛠️ Tools: Python, SQL, Power BI, Pandas, Matplotlib
 
-- 🔹 [OLA Data Analyst Project](https://github.com/mangal-singh001/OLA-Data-Analyst-Project-)  
-  Conducted analysis on ride data to uncover trends in customer behavior, peak demand, revenue growth, and driver performance, delivering actionable insights for business strategy.  
-  🛠️ Tools: Python, Pandas, Matplotlib, Power BI  
+* 🔹 [India General Election 2024 Result Analysis](https://github.com/mangal-singh001/India-General-Election-2024-Result-Analysis)
+  Analyzed 2024 Indian election results with Pandas, SQL, and Power BI to uncover trends in constituencies, party performance, and voter demographics.
+  🛠️ Tools: Python, SQL, Power BI, Pandas
+
+* 🔹 [Ecommerce Data Analysis – Capstone Project](https://github.com/mangal-singh001/Ecommerce-Data-Analysis-Project)
+  Inserted 50K+ rows into MySQL using Python, solved business problems with SQL, and visualized results using Pandas and Matplotlib.
+  🛠️ Tools: Python, SQL, MySQL, Pandas, Jupyter
+
+* 🔹 [OLA Data Analyst Project](https://github.com/mangal-singh001/OLA-Data-Analyst-Project-)
+  Conducted analysis on ride data to uncover trends in customer behavior, peak demand, revenue growth, and driver performance, delivering actionable insights for business strategy.
+  🛠️ Tools: Python, Pandas, Matplotlib, Power BI
+
+* 🔹 [Customer Churn Prediction (ML)](https://github.com/mangal-singh001/Customer-Churn-analysis)
+  Built a logistic regression model to predict churn based on customer features, helping businesses identify at-risk customers.
+  🛠️ Tools: Python, Pandas, Scikit-learn, Matplotlib
+
+* 🔹 [Movie Recommender System (ML Project)](https://github.com/mangal-singh001/Movie-Recommender-System-ML-Project)
+  Developed a recommendation engine to suggest movies based on user preferences and similarities. Implemented collaborative filtering and evaluated model performance with RMSE.
+  🛠️ Tools: Python, Pandas, Scikit-learn, Jupyter
+
 
 ---
 
