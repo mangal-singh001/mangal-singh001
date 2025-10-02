@@ -45,11 +45,7 @@
 
 ---
 
-### 📂 Featured Data Projects  
 
-Perfect 👍 Here’s your updated **📂 Featured Data Projects** section with all **6 projects**, polished and consistent in style. You can copy-paste this directly into your GitHub profile README:
-
----
 
 ### 📂 Featured Data Projects
 
