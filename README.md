@@ -51,15 +51,15 @@
 
 Here are some of my best projects, showcasing my journey from **Data Analysis** to **Machine Learning & Data Science** 🚀  
 
-- 🔹 [Vendor Performance Analysis – Capstone Project](...)  
+- 🔹 [Vendor Performance Analysis – Capstone Project](https://github.com/mangal-singh001/Vendor-Performance-Analysis-Capstone-Project)  
   Automated data ingestion into SQL, performed EDA with Pandas/Matplotlib, and built an interactive Power BI dashboard to track KPIs like vendor rating, delivery delays, and cost efficiency.  
   🛠️ Tools: Python, SQL, Power BI, Pandas, Matplotlib  
 
-- 🔹 [Ecommerce Data Analysis – Capstone Project](...)  
+- 🔹 [Ecommerce Data Analysis – Capstone Project](https://github.com/mangal-singh001/Ecommerce-Data-Analysis-Project)  
   Inserted 50K+ rows into MySQL using Python, solved business problems with SQL, and visualized results using Pandas and Matplotlib.  
   🛠️ Tools: Python, SQL, MySQL, Pandas, Jupyter  
 
-- 🔹 [India General Election 2024 Result Analysis](...)  
+- 🔹 [India General Election 2024 Result Analysis](https://github.com/mangal-singh001/India-General-Election-2024-Result-Analysis)  
   Analyzed 2024 Indian election results with Pandas, SQL, and Power BI to uncover trends in constituencies, party performance, and voter demographics.  
   🛠️ Tools: Python, SQL, Power BI, Pandas  
 
