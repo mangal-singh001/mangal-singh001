@@ -47,39 +47,33 @@
 
 
 
-### 📂 Featured Data Projects
+### 📂 Featured Data Projects  
 
+Here are some of my best projects, showcasing my journey from **Data Analysis** to **Machine Learning & Data Science** 🚀  
 
-1️⃣ **[PDF Parsing in JSON Format](https://github.com/mangal-singh001/Pdf-Parsing-in-json-format)**
-Automated extraction of text from PDF documents and conversion into structured JSON format for downstream analysis. Demonstrated handling of multi-page PDFs and structured data ingestion.
-🛠️ Tools: Python, PyPDF2, JSON
+- 🔹 [Vendor Performance Analysis – Capstone Project](...)  
+  Automated data ingestion into SQL, performed EDA with Pandas/Matplotlib, and built an interactive Power BI dashboard to track KPIs like vendor rating, delivery delays, and cost efficiency.  
+  🛠️ Tools: Python, SQL, Power BI, Pandas, Matplotlib  
 
-2️⃣ **[Vendor Performance Analysis – Capstone Project](https://github.com/mangal-singh001/Vendor-Performance-Analysis-Capstone-Project)**
-Automated data ingestion into SQL, performed EDA with Pandas/Matplotlib, and built an interactive Power BI dashboard to track KPIs like vendor rating, delivery delays, and cost efficiency.
-🛠️ Tools: Python, SQL, Power BI, Pandas, Matplotlib
+- 🔹 [Ecommerce Data Analysis – Capstone Project](...)  
+  Inserted 50K+ rows into MySQL using Python, solved business problems with SQL, and visualized results using Pandas and Matplotlib.  
+  🛠️ Tools: Python, SQL, MySQL, Pandas, Jupyter  
 
-3️⃣ **[Ecommerce Data Analysis – Capstone Project](https://github.com/mangal-singh001/Ecommerce-Data-Analysis-Project)**
-Inserted 50K+ rows into MySQL using Python, solved business problems with SQL, and visualized results using Pandas and Matplotlib.
-🛠️ Tools: Python, SQL, MySQL, Pandas, Jupyter
+- 🔹 [India General Election 2024 Result Analysis](...)  
+  Analyzed 2024 Indian election results with Pandas, SQL, and Power BI to uncover trends in constituencies, party performance, and voter demographics.  
+  🛠️ Tools: Python, SQL, Power BI, Pandas  
 
-4️⃣ **[India General Election 2024 Result Analysis](https://github.com/mangal-singh001/India-General-Election-2024-Result-Analysis)**
-Analyzed 2024 Indian election results with Pandas, SQL, and Power BI to uncover trends in constituencies, party performance, and voter demographics.
-🛠️ Tools: Python, SQL, Power BI, Pandas
+- 🔹 [PDF Parsing in JSON Format](...)  
+  Automated extraction of text from PDF documents and conversion into structured JSON format for downstream analysis. Demonstrated handling of multi-page PDFs and structured data ingestion.  
+  🛠️ Tools: Python, PyPDF2, JSON  
 
-5️⃣ **[Customer Churn Prediction (ML)](https://github.com/mangal-singh001/Customer-Churn-analysis)**
-Built a logistic regression model to predict churn based on customer features, helping businesses identify at-risk customers.
-🛠️ Tools: Python, Pandas, Scikit-learn, Matplotlib
+- 🔹 [Customer Churn Prediction (ML)](...)  
+  Built a logistic regression model to predict churn based on customer features, helping businesses identify at-risk customers.  
+  🛠️ Tools: Python, Pandas, Scikit-learn, Matplotlib  
 
-6️⃣ **[Movie Recommender System (ML Project)](https://github.com/mangal-singh001/Movie-Recommender-System-ML-Project)**
-Developed a recommendation engine to suggest movies based on user preferences and similarities. Implemented collaborative filtering and evaluated model performance with RMSE.
-🛠️ Tools: Python, Pandas, Scikit-learn, Jupyter
-
----
-
-### 🔹 Other Projects (Optional Section)
-
-* [OLA Data Analyst Project](https://github.com/mangal-singh001/OLA-Data-Analyst-Project-) – Analyzed ride data to uncover trends in demand, revenue growth, and driver performance using Python & Power BI.
-
+- 🔹 [Movie Recommender System (ML Project)](...)  
+  Developed a recommendation engine to suggest movies based on user preferences and similarities. Implemented collaborative filtering and evaluated model performance with RMSE.  
+  🛠️ Tools: Python, Pandas, Scikit-learn, Jupyter  
 
 ---
 
