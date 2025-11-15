@@ -79,7 +79,6 @@ Here are some of my best projects, showcasing my journey from **Data Analysis** 
 
 ---
 
-
 ### 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mangal-singh123/)  
