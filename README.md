@@ -10,6 +10,7 @@
 
 ### 🚀 About Me  
 
+
 - 👨‍🎓 Final Year B.Tech CSE Student | Focused on **Data Science & Analytics**  
 - 🧠 Skilled in turning raw data into business insights through **Python, SQL & Power BI**  
 - 🔄 Actively building and sharing projects on **GitHub & LinkedIn**  
