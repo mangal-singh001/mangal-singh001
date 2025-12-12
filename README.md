@@ -1,4 +1,4 @@
-7<!-- Optional Banner Image -->
+<!-- Optional Banner Image -->
 <!-- <img src="banner.png" alt="Mangal Singh Banner" style="width:100%;"> -->
 
 <h1 align="center">Hi 👋, I'm Mangal Singh</h1>
@@ -46,7 +46,6 @@
 </p>
 
 ---
-
 
 ### 📂 Featured Data Projects  
 
